@@ -288,3 +288,9 @@ html:not([data-show~="recipes"]) [data-feature="recipes"] { display: none !impor
 /* Current InkLeaf app icon has its own rounded square, so give the small copies matching corners */
 .visual-brand img { border-radius: 6px; }
 .app-brand img { border-radius: 6px; }
+
+/* When Projects is switched on it sits right after Selected work on the same
+   background, so the two sections' padding stacked into a big empty band.
+   Pull them together so it reads as one continuous run. */
+html[data-show~="projects"] .work { padding-bottom: clamp(48px,5vw,72px); }
+.side-projects { padding-top: 0; }
