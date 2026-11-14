@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-labelledby="title">
+  <title id="title">Inkleaf</title>
+  <rect x="2" y="2" width="36" height="36" rx="10" fill="#294637"/>
+  <path d="M11 12.5h10.2c3.3 0 5.8 2.3 5.8 5.4v12.6H15.8a4.8 4.8 0 0 1-4.8-4.8z" fill="#f7f4e9"/>
+  <path d="M20.4 17.8c.4-6 4.8-9.4 11-9.1-.1 6.4-3.8 10.1-10.5 10.1" fill="#b9cf8a"/>
+  <path d="M17.2 26.7c4.3-5.8 8.2-10 13.2-13.6" fill="none" stroke="#54745a" stroke-linecap="round" stroke-width="1.6"/>
+</svg>
